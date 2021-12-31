@@ -35,6 +35,7 @@ All indexer are built with SubQuery( https://explorer.subquery.network/ ).
 -   https://github.com/web3go-xyz/RMRK-Indexer
 -   https://github.com/web3go-xyz/Crowdloan-Indexer
 -   https://github.com/web3go-xyz/Acala-Indexer
+-   https://github.com/web3go-xyz/polkadot-indexer
 
 
 ## Processor 
@@ -54,6 +55,10 @@ provide api for data access and analysis functionality.
 -   https://github.com/web3go-xyz/moonriver-analysis-service
 -   https://github.com/web3go-xyz/rmrk-analysis-service
 -   https://github.com/web3go-xyz/parachains-analysis-service
+-   https://github.com/web3go-xyz/polkadot-balance-analysis-service
+
+sublink service as an union service to combine all analysis data.
+-   https://github.com/web3go-xyz/sublink
 
 ## Task Management
 
@@ -93,6 +98,7 @@ infrastructure to support all projects, provide support for cache, data model, m
 ## Others
 
 -   https://github.com/web3go-xyz/karura-data-support
+-   https://github.com/web3go-xyz/oracle-token-price
 -   
 #
 
