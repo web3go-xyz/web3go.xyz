@@ -31,7 +31,6 @@ indexer to fetch chain blocks with block data, events.
 All indexer are built with SubQuery( https://explorer.subquery.network/ ).
 
 -   https://github.com/web3go-xyz/moonriver-indexer
--   https://github.com/web3go-xyz/polkadot-indexer
 -   https://github.com/web3go-xyz/RMRK-Indexer
 -   https://github.com/web3go-xyz/Crowdloan-Indexer
 -   https://github.com/web3go-xyz/Acala-Indexer
