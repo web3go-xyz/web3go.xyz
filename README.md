@@ -1,14 +1,20 @@
 # Introduction
-
-Web3Go, an open data platform that focuses on the formatting, visualization, and collaborative analytics of on-chain data generated in the Polkadot ecosystem.
-
-## website
-<img src='https://web3go.xyz/static/favicon.ico'> 
+<img src='https://web3go.xyz/static/Web3Go.logo-h.png'> 
 
 https://web3go.xyz/
 
-## medium 
+Web3Go, an open data platform that focuses on the formatting, visualization, and collaborative analytics of on-chain data generated in the Polkadot ecosystem.
+
+## Community 
 https://web3go.medium.com/introducing-web3go-fcf5f1880a72
+ 
+https://twitter.com/Web3Go
+ 
+https://t.me/web3go
+
+
+## Grant Support
+<img src='https://web3go.xyz/static/web3_foundation_grants_badge_black.png'> 
 
 
 
