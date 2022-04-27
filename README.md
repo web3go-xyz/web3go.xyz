@@ -1,5 +1,5 @@
 # Introduction
-<img src='https://web3go.xyz/static/Web3Go.logo-h.png'> 
+<img style='width:300px' src='https://web3go.xyz/static/Web3Go.logo-h.png'> 
 
 Web3Go, an open data platform that focuses on the formatting, visualization, and collaborative analytics of on-chain data generated in the Polkadot ecosystem.
 
