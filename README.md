@@ -1,5 +1,5 @@
 # Introduction
-<img style='width:300px' src='https://web3go.xyz/static/Web3Go.logo-h.png'> 
+<img style='width:300px' src='https://camo.githubusercontent.com/335241ec76b390d7a960945293b3a0df332e6c7931b108aad9f8c8214193df59/68747470733a2f2f6170702e77656233676f2e78797a2f7374617469632f57656233476f2e6c6f676f2d682e706e67'> 
 
 Web3Go, an open data platform that focuses on the formatting, visualization, and collaborative analytics of on-chain data generated in the Polkadot ecosystem.
 
@@ -12,7 +12,7 @@ https://t.me/web3go
 
 
 # Grant Support
-<img src='https://web3go.xyz/static/web3_foundation_grants_badge_black.png'> 
+<img src='https://camo.githubusercontent.com/13bc1a8bccbdf9a41680c773d1dfba8988aa0a7fb8f65f6411cc8678ea1c3071/68747470733a2f2f6170702e77656233676f2e78797a2f7374617469632f776562335f666f756e646174696f6e5f6772616e74735f62616467655f626c61636b2e706e67'> 
 
 
 
